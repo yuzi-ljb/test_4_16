@@ -66,3 +66,6 @@ int main() {
 	printf("Լ%d", b);
 	return 0;
 }
+//
+//
+//
